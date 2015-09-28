@@ -1,0 +1,10 @@
+#HomeContainer
+{
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid black;
+    min-height: 580px;
+    width: 90%;
+    margin-top: 5px;
+    
+}

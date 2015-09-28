@@ -1,0 +1,68 @@
+#Container
+{
+width:800px;
+margin-left: auto;
+margin-right: auto;
+height:auto;
+margin-top:10px;
+}
+#Sideleft
+{
+height: auto;
+width: 250px;
+float: left;
+}
+#SideRight
+{
+height:645px;
+width:545px;
+float: right;
+}
+#Imageleftside
+{
+width: 150px;
+height: 200px;
+margin-left: 20px;
+margin-top:10px;
+}
+#HeaderSet
+{
+background-color: #F3F6F9;
+font-weight:600;
+height:15px;
+border-bottom:1px solid #DCE5EE;
+padding:5px;
+margin-bottom:5px;
+}
+#Aboutthisguy
+{
+width: 194px;
+height: 200px;
+margin-left: 20px;
+margin-top:10px;
+}
+#FriendsOfThisGuy
+{
+width: 194px;
+height: 200px;
+margin-left: 20px;
+margin-top:10px;
+margin-bottom:10px;
+}
+#PostFormHolder
+{
+height:100px;
+width:530px;
+float: right;
+margin-right:5px;
+margin-top:5px;
+background-color:#f1f1f1;
+}
+#PostsGoHere
+{
+height:530px;
+width:530px;
+float: right;
+margin-right:5px;
+background-color:#e1e1e1;
+}
